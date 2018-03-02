@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News Application Software</string>
+    <string name="the_setting">setting</string>
+    <string name="check">Oh,Sorry now no news to show!</string>
+    <string name="loader">Go To Setting option</string>
+    <string name="avail">Yub The Network Now is availabe"</string>
+    <string name="disconnect">No Network Now"</string>
+    <string name="welcome">Welcome to setting option!</string>
+    <string name="read">welcome!,,now We go to this current new to read</string>
+    <string name="presenttitle">The WebTtitle isn not present now</string>
+    <string name="big">This is Big Number</string>
+</resources>
